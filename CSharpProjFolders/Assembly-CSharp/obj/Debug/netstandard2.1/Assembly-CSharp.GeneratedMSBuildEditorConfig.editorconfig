@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Assembly-CSharp
-build_property.ProjectDir = C:\Unity\Something cooking\CSharpProjFolders\Assembly-CSharp\
+build_property.ProjectDir = C:\UnityProjects\3D-Obstacle_course\CSharpProjFolders\Assembly-CSharp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
